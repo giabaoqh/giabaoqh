@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Bao</h1>
-<p>I am a software engineer. I enjoy building web applications and learning new technologies. I am currently working on improving my skills and developing practical projects.</p>
+<p>I am a software engineer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
@@ -23,13 +23,9 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://github.com/giabaoqh/FlashcardJapanese">https://github.com/giabaoqh/FlashcardJapanese</a></li>
+<li><a target="_blank" href="https://github.com/giabaoqh/FlashcardJapanese">Building a Flashcard Web App for Learning Languages</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/pepogb2504/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@NinoYGO" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ninoygo">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
